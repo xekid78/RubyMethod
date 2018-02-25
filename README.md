@@ -1,0 +1,2 @@
+# RubyMethod
+メソッド
